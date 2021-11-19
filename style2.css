@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    opacity: 10;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 600px;
+    margin-left: 27%;
+    margin-right: 20%;
+    margin-top: 85px;
+}
+.trip{
+    padding: 15px;
+    text-align: center;
+    font-size:35px;
+    border-bottom: 3px solid #948A8A; 
+    line-height: 0.05em;
+    margin: 5px 0 10px;
+}
+.trip span{
+    background:#fff; 
+    padding:0 10px; 
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    padding-top: 40px;
+    margin-left: 210px;
+}
+
+.back{
+    text-align: center;
+    font-size: 30px;
+    color: #585353;
+}
+
+.container-1{
+    border: 2px solid red;
+    width: 300px;
+    height: 350px;
+    box-shadow: 5px 5px 10px grey;
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.v-head{
+    margin-top: 5px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 39px;
+    color: red;
+    border-bottom: 2px solid black;
+}
+
+.task{
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 95px;
+    color: red;
+    
+}
+
+.checkbox{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.plus{
+    text-align: right;
+    padding-top: 100px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.change{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}

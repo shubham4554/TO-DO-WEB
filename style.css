@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    opacity: 10;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    margin-top: 5%;
+    padding-left: 15%;
+    width: 1200px;
+    height: 85px;
+    display: flex;
+    margin-top: 70px;
+    position:relative;
+}
+
+.tasks{
+    width:35%;
+    height:50%;
+}
+#tasks{
+    font-weight: bold;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+#lists{
+    font-size:2.5rem;
+    font-weight:50;
+    margin-left:10px;
+}
+
+.container-1{
+    padding-top:20px;
+    position:relative;
+    display: flex;
+}
+.plus{
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    padding-left: 550px;
+    padding-top: 12px;    
+}
+
+#addlist{
+    font-size: 30px;
+    padding-left: 600px;
+    padding-top: 25px;
+}
+.container-2{
+    border-radius: 10;
+    /* border: 1.5px solid red; */
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 8px;
+    width: 1200px;
+    /* box-shadow: 5px 5px 10px grey; */
+    position: relative;
+    display: flex;
+    justify-content: space-between;   
+}
+.trip{
+    margin-top: 10px;
+    margin-left: 40px;
+    color: red;
+    height: 50px;
+    border-bottom: 2px solid black;
+}
+.task{
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.checkbox{
+    text-align: center;
+    font-size: large;
+    font-size: 20px;
+}
+#box-1{
+    width: 270px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+#box-2{
+    width: 270px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 25px;
+}
+
+#box-3{
+    width: 270px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-right: 20px;
+    margin-top: 25px;
+}
+b{
+    margin-left: 30%;
+    font-size: 25px;
+}
+.change{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    
+}
+a{
+    text-decoration: none;
+    /* font-size: x-large; */
+    color: red;
+}
+

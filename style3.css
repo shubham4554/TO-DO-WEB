@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    opacity: 10;
+    box-sizing: border-box;
+}
+
+.big{
+    display: flex;
+    margin-top: 45px;
+    position: absolute;
+}
+.container4{
+    display: flex;
+    margin-top: 5%;
+    padding-left: 15%;
+    width: 1200px;
+    height: 85px;
+    display: flex;
+    margin-top: 70px;
+    position:relative;
+    
+}
+
+.tasks{
+    width:35%;
+    height:50%;
+}
+#tasks{
+    font-weight: bold;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+#lists{
+    font-size:2.5rem;
+    font-weight:50;
+    margin-left:10px;
+}
+
+.container-1{
+    padding-top:20px;
+    position:relative;
+    display: flex;
+}
+.plus{
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    padding-left: 550px;
+    padding-top: 12px;    
+}
+
+#addlist{
+    font-size: 30px;
+    padding-left: 600px;
+    padding-top: 25px;
+}
+.container-2{
+    border-radius: 10;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-radius: 8px;
+    width: 1200px;
+    position: relative;
+    display: flex;
+    
+}
+.trip{
+    margin-top: 10px;
+    margin-left: 40px;
+    color: red;
+    height: 50px;
+    border-bottom: 2px solid black;
+}
+.task{
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.checkbox{
+    text-align: center;
+    font-size: large;
+    font-size: 20px;
+}
+#box-1{
+    width: 250px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+#box-2{
+    width: 250px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 25px;
+}
+
+#box-3{
+    width: 250px;
+    height:80%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 5px 5px 10px gray;
+    margin-right: 20px;
+    margin-top: 25px;
+}
+b{
+    margin-left: 30%;
+    font-size: 25px;
+}
+.change{
+    text-align: center;
+    margin-top: 5px;
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+}
+.blur{
+    filter: blur(8px);
+}
+
+.container-add{
+    margin-top: -40px;
+    padding-left: 50px;
+    margin: auto;
+    width: 350px;
+    height: 210px;
+    border-radius: 10px;
+    border: 2px solid red;
+    box-shadow: 5px 5px 10px gray;
+    position: absolute;
+    margin-top: 200px ;
+    margin-left: 550px;
+}
+
+.add-task{
+    color: red;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    width: 150px;
+}
+
+.input{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 200px;
+    border: 2px solid red;
+    box-shadow: 3px 3px 5px gray;
+    border-radius: 4px;
+}
+.buttom{
+    margin-left: 90px;
+    width: 80px;
+    height: 40px;
+    border: 2px solid red;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+}
+
+.change{
+    text-align: center;
+    margin-top: 600px;
+    margin-left: 650px;
+    position: absolute;
+
+}
